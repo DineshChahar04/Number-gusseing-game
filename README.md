@@ -521,7 +521,7 @@ Currently learning:
 * Game Development
 
 ## If You Like This Project
-If you found this project interesting, you can:------>>> Star the repository ⭐
+If you found this project interesting, you can:------>>> Star the repository 
 
 ### Thanks for Playing!
 **Can you guess the secret number? **
